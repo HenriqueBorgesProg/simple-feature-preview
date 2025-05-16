@@ -30,13 +30,13 @@ O desafio consistia em criar uma seção de features responsiva com:
 ## Design Responsivo
 
 ### Versão Desktop
-![Design Desktop](resources/desktop-henrique.png)
+![Design Desktop](https://github.com/user-attachments/assets/b3a3976a-e69e-420c-9091-125a1752529d)
 - Layout em linha com os três cards lado a lado
 - Espaçamento adequado entre os elementos
 - Tamanho de fonte otimizado para telas maiores
 
 ### Versão Mobile
-![Design Mobile](resources/mobile-preview.jpg)
+![Design Mobile](https://github.com/user-attachments/assets/b8f695de-afd7-43ab-a7fe-f9d1b29e29bb)
 - Cards empilhados verticalmente
 - Redimensionamento de imagens e textos
 - Espaçamento adaptado para telas menores
