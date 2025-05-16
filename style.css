@@ -87,6 +87,7 @@ body {
 
 .content-paragraph {
   margin-bottom: 26px;
+  font-size: smaller;
   opacity: 0.8;
 }
 
